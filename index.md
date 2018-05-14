@@ -199,6 +199,7 @@ eventbrite: "45475074171"          # optional: alphanumeric key for Eventbrite r
 <hr/>
 
 {% if page.collaborative_notes %}
+<h2 id="etherpad">Etherpad</h2>
 <p id="collaborative_notes">
   We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
